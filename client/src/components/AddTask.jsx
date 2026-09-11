@@ -59,7 +59,7 @@ const AddTask = ({ onAdd }) => {
       </div>
       
       <button type="submit" className="btn btn-block success">
-        Adicionar task com ALB
+        Adicionar task com CICD
       </button>
       
       <Modal
