@@ -4,6 +4,7 @@ env:
   variables:
     ECR_REGISTRY: 195275655212.dkr.ecr.us-east-1.amazonaws.com
     ECR_REPO: bia
+    VITE_API_URL: https://cdn.johnnysm.com.br
 
 phases:
   pre_build:
